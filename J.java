@@ -4,11 +4,11 @@ public class J extends null {
 
     int af();
 
-    public void ab() {
-        System.out.println();
+    public byte oo() {
+        return 1;
     }
 
-    public float ff() {
-        return 3.14;
+    public int hh() {
+        return new java.util.Random().nextInt();
     }
 }

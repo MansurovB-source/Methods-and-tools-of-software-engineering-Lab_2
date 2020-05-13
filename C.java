@@ -28,6 +28,14 @@ public class C extends null implements K, J {
         return -1;
     }
 
+    public String nn() {
+        return "++++++++++[>+++++++>++++++++++>+++>+<<<<-]>++";
+    }
+
+    public String kk() {
+        return "Hello world";
+    }
+
     public int hh() {
         return new java.util.Random(10).nextInt(10);
     }
@@ -36,11 +44,23 @@ public class C extends null implements K, J {
         return;
     }
 
-    public String nn() {
-        "".>+.+++++++..+++.>++.<<+++++++++++++++.>.+++.;
+    public int ae() {
+        return 9;
     }
 
-    public void aa() {
-        return;
+    public java.lang.Class qq() {
+        return getClass();
+    }
+
+    public int cc() {
+        return 13;
+    }
+
+    public Object pp() {
+        return this;
+    }
+
+    public double ee() {
+        return 0.000001;
     }
 }

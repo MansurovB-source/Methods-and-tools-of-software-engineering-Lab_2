@@ -4,8 +4,8 @@ public class K extends null {
 
     float ff();
 
-    public void ab() {
-        System.out.println();
+    public int cc() {
+        return 39;
     }
 
     public int hh() {

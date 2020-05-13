@@ -27,8 +27,4 @@ public class F implements K, J {
     public int af() {
         return -1;
     }
-
-    public long dd() {
-        return 100500;
-    }
 }

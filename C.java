@@ -27,8 +27,4 @@ public class C implements K, J {
     public int af() {
         return -1;
     }
-
-    public int hh() {
-        return new java.util.Random(10).nextInt(10);
-    }
 }

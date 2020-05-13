@@ -35,4 +35,8 @@ public class F implements K, J {
     public int hh() {
         return new java.util.Random().nextInt();
     }
+
+    public Object rr() {
+        return null;
+    }
 }

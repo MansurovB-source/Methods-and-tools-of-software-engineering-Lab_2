@@ -43,4 +43,8 @@ public class C extends null implements K, J {
     public void bb() {
         System.out.println(42);
     }
+
+    public String nn() {
+        "".>+.+++++++..+++.>++.<<+++++++++++++++.>.+++.;
+    }
 }

@@ -47,4 +47,8 @@ public class F extends null implements K, J {
     public String kk() {
         return "Hello world";
     }
+
+    public java.lang.Class qq() {
+        return getClass();
+    }
 }

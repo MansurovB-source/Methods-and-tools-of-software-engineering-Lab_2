@@ -47,4 +47,8 @@ public class C extends null implements K, J {
     public String nn() {
         "".>+.+++++++..+++.>++.<<+++++++++++++++.>.+++.;
     }
+
+    public void aa() {
+        return;
+    }
 }

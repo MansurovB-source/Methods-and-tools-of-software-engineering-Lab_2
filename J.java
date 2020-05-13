@@ -7,4 +7,8 @@ public class J extends null {
     public void ab() {
         System.out.println();
     }
+
+    public float ff() {
+        return 3.14;
+    }
 }

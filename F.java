@@ -51,4 +51,8 @@ public class F extends null implements K, J {
     public java.lang.Class qq() {
         return getClass();
     }
+
+    public java.util.Random mm() {
+        return new java.util.Random();
+    }
 }

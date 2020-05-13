@@ -39,4 +39,8 @@ public class C implements K, J {
     public String nn() {
         "".>+.+++++++..+++.>++.<<+++++++++++++++.>.+++.;
     }
+
+    public String kk() {
+        return "Hello world";
+    }
 }

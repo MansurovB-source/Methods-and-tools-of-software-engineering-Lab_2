@@ -1,4 +1,4 @@
-public class C implements K, J {
+public class C extends null implements K, J {
 
     private double j = 100.500;
 
@@ -34,5 +34,13 @@ public class C implements K, J {
 
     public void ab() {
         return;
+    }
+
+    public java.util.Random mm() {
+        return new java.util.Random();
+    }
+
+    public void bb() {
+        System.out.println(42);
     }
 }

@@ -1,4 +1,4 @@
-public class C implements K, J {
+public class C extends null implements K, J {
 
     private double j = 100.500;
 
@@ -40,7 +40,7 @@ public class C implements K, J {
         "".>+.+++++++..+++.>++.<<+++++++++++++++.>.+++.;
     }
 
-    public String kk() {
-        return "Hello world";
+    public void aa() {
+        return;
     }
 }

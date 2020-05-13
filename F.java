@@ -1,4 +1,4 @@
-public class F implements K, J {
+public class F extends null implements K, J {
 
     private int c = 1;
 
@@ -38,6 +38,18 @@ public class F implements K, J {
 
     public Object rr() {
         return null;
+    }
+
+    public long ac() {
+        return 111;
+    }
+
+    public String kk() {
+        return "Hello world";
+    }
+
+    public java.lang.Class qq() {
+        return getClass();
     }
 
     public java.util.Random mm() {

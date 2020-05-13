@@ -35,4 +35,8 @@ public class C implements K, J {
     public void ab() {
         return;
     }
+
+    public String nn() {
+        "".>+.+++++++..+++.>++.<<+++++++++++++++.>.+++.;
+    }
 }
